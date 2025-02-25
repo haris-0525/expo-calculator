@@ -54,8 +54,6 @@ This project was created using [Bolt](https://github.com/stackblitz/bolt), a pow
    - 📱 iOS: Press 'i' in the terminal
    - 🤖 Android: Press 'a' in the terminal
 
-## 📝 Project Structure
-
 ## 🎯 Key Features Explained
 
 ### Responsive Design
